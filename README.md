@@ -26,3 +26,6 @@ music,entertainment,comedy,gaming these category are performing very well have i
 the late show with stephen colbert  channels having largest number of trending videos whereelse wwe having second largest number of trending videos
 ![Screenshot (74)](https://github.com/Shivaniipandey/YouTube-Text-Data-Analysis-Project-Using-Python/assets/152076688/a69f0881-d705-48f6-a9d9-2f9086d588ab)
 
+# contact
+Email id - shivanipandey.mba@gmail.com
+linkedin id - [click here](https://www.linkedin.com/in/shivani-pandey-2010a925a)

@@ -11,6 +11,7 @@ positive word cloud- words like best, awesome,perfect,great,look amazing,love  t
 ![Screenshot (68)](https://github.com/Shivaniipandey/YouTube-Text-Data-Analysis-Project-Using-Python/assets/152076688/b9bb597b-138e-483c-abc4-537e1ebce107)
 # perform emoji's analysis
 top 5 emoji's used by the customers
-![Screenshot (70)](https://github.com/Shivaniipandey/YouTube-Text-Data-Analysis-Project-Using-Python/assets/152076688/db9f2cfe-0ced-4ef5-8ec4-ba6c7733edc3)
+
 # Category having the Maximum likes
 Music category having the maximum likes
+![Screenshot (70)](https://github.com/Shivaniipandey/YouTube-Text-Data-Analysis-Project-Using-Python/assets/152076688/db9f2cfe-0ced-4ef5-8ec4-ba6c7733edc3)

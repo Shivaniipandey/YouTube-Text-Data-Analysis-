@@ -23,6 +23,6 @@ music,entertainment,comedy,gaming these category are performing very well have i
  the plot showing straight line  meaning that when the views increase the likes also increase
 ![Screenshot (72)](https://github.com/Shivaniipandey/YouTube-Text-Data-Analysis-Project-Using-Python/assets/152076688/5ab1e5e2-c7c9-4e0c-9ca8-64c430d6e612)
 # 7.finding out which channels having largest number of trending videos
-the late show with stephen colbers  channels having largest number of trending videos whereelse wwe having second largest number of trending videos
+the late show with stephen colbert  channels having largest number of trending videos whereelse wwe having second largest number of trending videos
 ![Screenshot (74)](https://github.com/Shivaniipandey/YouTube-Text-Data-Analysis-Project-Using-Python/assets/152076688/a69f0881-d705-48f6-a9d9-2f9086d588ab)
 
